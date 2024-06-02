@@ -1,0 +1,157 @@
+about: Acerca de
+all_tools: Todas las herramientas
+amount: Cantidad
+app_name: DevWidgets
+application: Aplicacion
+base64_image_encoder: Codificador / Decodificador Base 64 de Imagen
+base64_image_encoder_description: Codificar y Decodificar a Base64 datos de imagen
+base64_image_encoder_short_title: Base 64 Imagen
+base64_text_encoder: Base 64 texto Codificador / Decodificador
+base64_text_encoder_description: Codificar y Decodificar Base64 datos de texto
+base64_text_encoder_short_title: Base 64 Texto
+brazil: Brazil
+brightness: Brillo
+build_info: Información de compilación
+bytes: Bytes
+character_distribution: Distribución de caracteres
+characters: Caracteres
+class_name: Nombre de la clase
+clear: Limpiar
+cnpj: CNPJ
+cnpj_description: Generar CNPJs brasileños
+cnpj_short_title: Generador de CNPJ
+compact: Compacto
+configuration: Configuración
+conversion: Conversión
+conversion_mode: Selecciona el modo de conversión que deseas usar
+conversion_type: Tipo de conversión
+convert: Convertir
+converters: Convertidores
+copied_to_the_clipboard: Copiado al portapapeles.
+copy: Copiar
+generators: Generadores
+generic: Genérico
+generic_sql: SQL genérico
+github: GitHub
+high_contrast: Alto contraste
+home: Inicio
+html: HTML
+html_encoder: Codificador / Decodificador HTML
+html_encoder_description: Codifica o decodifica todos los caracteres aplicables a sus correspondientes entidades HTML
+html_encoder_short_title: HTML
+html_preview: Vista previa HTML
+html_preview_description: Previsualizar un documento HTML
+html_preview_short_title: Vista previa HTML
+hyphens: Guiones
+indentation: Indentación
+input: Entrada
+invalid_data: Datos inválidos
+invalid_json_data: Datos JSON inválidos.
+invalid_xml_data: Datos XML inválidos.
+invalid_yaml_data: Datos YAML inválidos
+json_formatter: Formateador JSON
+json_formatter_description: Indentar o minimizar datos JSON
+json_formatter_short_title: JSON
+json_to_class: "JSON -> Clase"
+json_to_class_description: Convertir datos JSON a una clase de lenguaje de programación
+json_to_sql: "JSON -> SQL"
+json_to_sql_description: Convertir datos JSON a definiciones de tabla o scripts INSERT/UPDATE/DELETE.
+json_to_sql_invalid_json_data: |-
+  Datos JSON inválidos.
+  Por favor, introduzca un array con objetos como el ejemplo de arriba.
+json_yaml_converter: "JSON <> YAML"
+json_yaml_converter_description: Convertir datos JSON a YAML y viceversa
+language: Idioma
+length: Longitud
+licenses: Licencias
+licenses_description: Acceso a todas las licencias de terceros
+light: Luz
+lines: Líneas
+lipsum: Lorem Ipsum
+lipsum_amount_description: "Cantidad de palabras, frases o párrafos a generar"
+lipsum_generator: Generador Lorem Ipsum
+lipsum_generator_description: "Palabras, frases y párrafos"
+lipsum_generator_mode: Modo de generador
+lipsum_generator_mode_description: "Generar palabras, frases o párrafos con texto lorem ipsum"
+lipsum_start_with: Comenzar con 'Lorem ipsum dolor sit amet ...'
+markdown_preview: Vista previa Markdown
+markdown_preview_description: Previsualizar un documento Markdown
+markdown_preview_short_title: Vista previa Markdown
+menu_search_bar_hint: Escribe para buscar herramientas...
+new_text: Nuevo texto
+no_cleanup: Sin limpieza
+no_cleanup_description: Salida en bruto
+no_tools_found: No se encontraron herramientas.
+number_base_converter: Convertidor de base numérica
+number_base_converter_description: Convertir números de una base a otra
+old_text: Texto antiguo
+one_tab: Una pestaña
+options: Opciones
+output: Salida
+paragraphs: Párrafos
+paste: Pegar
+position: Posición
+preview: Vista previa
+primary_color: Color primario
+primary_key: Clave primaria
+programming_language: Lenguaje de programación
+repository: Repositorio
+repository_about: "En el repositorio puedes abrir problemas para informar de un problema, ver el código fuente o dejar comentarios :)"
+required: Requerido
+selection: Selección
+semantic_cleanup: Limpieza semántica
+semantic_cleanup_description: Aumentar la legibilidad humana al eliminar las coincidencias que probablemente sean coincidentes
+sentences: Frases
+settings: Configuraciones
+sort_json_properties_alphabetically: Ordenar propiedades JSON alfabéticamente
+sort_properties_alphabetically: Ordenar propiedades alfabéticamente
+sort_yaml_properties_alphabetically: Ordenar propiedades YAML alfabéticamente
+sql_formatter: Formateador SQL
+sql_formatter_description: Indentar consultas SQL
+sql_formatter_short_title: SQL
+statistics: Estadísticas
+success: "¡Éxito!"
+system: Sistema
+table_name: Nombre de la tabla
+text: Texto
+text_diff: Comparador de texto
+text_diff_description: Comparar dos textos
+text_diff_short_title: Dif. de texto
+text_editor: Editor de texto
+text_escape: Escape / Desescape de texto
+text_escape_description: "Escapa o desescapa una cadena, eliminando caracteres que podrían impedir el análisis."
+text_escape_short_title: Escape / Desescape
+text_inspector: "Convertidor de caso de texto & Inspector"
+text_inspector_description: Convertir e inspeccionar una cadena
+text_inspector_short_title: "Convertidor de caso & Inspector"
+theme: Tema
+timestamp_converter: Convertidor de marca de tiempo
+timestamp_converter_description: Convertir la marca de tiempo a fecha legible por humanos y viceversa
+two_spaces: Dos espacios
+unescape: Desescapar
+upload_file: Subir archivo
+upload_image: Subir imagen
+uppercase: Mayúsculas
+url_encoder: Codificador / Decodificador URL
+url_encoder_description: Codificar o decodificar todos los caracteres aplicables a sus correspondientes entidades URL
+url_encoder_short_title: URL
+uuid: UUID
+uuid_generator: Generador de UUID
+uuid_generator_description: Generar uuids v1 y v4
+uuid_type: Versión de UUID
+uuid_type_description: La versión de UUID a generar
+v1: 1
+v4: 4 (GUID)
+validator: Validador
+version: Versión
+warning: Advertencia
+word_distribution: Distribución de palabras
+words: Palabras
+wrap_text: Ajustar texto
+xml_formatter: Formateador XML
+xml_formatter_description: Indentar o minimizar datos XML
+xml_formatter_short_title: XML
+yaml_formatter: Formateador YAML
+yaml_formatter_description: Formatear y ordenar datos YAML
+yaml_formatter_short_title: YAML
+yaml_style: Estilo YAML
